@@ -1,0 +1,26 @@
+{
+     "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.tabSize": 4,
+    },
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace",
+        "editor.tabSize": 4,
+    },
+    "files.insertFinalNewline": true,
+    "ruff.enable": true,
+    "ruff.lint.enable": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.renderWhitespace": "all",
+  }
