@@ -1,1 +1,3 @@
 fastapi[standard]
+Faker
+pyarrow
