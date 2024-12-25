@@ -8,7 +8,7 @@ Dify cannot reliably retrieve the required data from a database specified using 
 
 ### Create a sample csv file by using 
 ```bash
-python tools/create-sample-csv.py
+python tools/create_sample_csv.py
 ```
 
 ### Run server
